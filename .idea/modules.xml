@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LineAnimatedCheckBox.iml" filepath="$PROJECT_DIR$/LineAnimatedCheckBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LineAnimatedCheckBox.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LineAnimatedCheckBox.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lineanimatedcheckbox/LineAnimatedCheckBox.lineanimatedcheckbox.iml" filepath="$PROJECT_DIR$/.idea/modules/lineanimatedcheckbox/LineAnimatedCheckBox.lineanimatedcheckbox.iml" />
+    </modules>
+  </component>
+</project>
